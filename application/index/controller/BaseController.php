@@ -4,7 +4,7 @@
  * User: Administrator
  * Date: 2018/8/7
  * Time: 15:09
- * Comment: 基础控制器
+ * Comment: 前端基础控制器
  */
 namespace app\index\controller;
 
